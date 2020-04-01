@@ -10,9 +10,9 @@ This is a sample Expense Manager project.
 5. npm install
 6. npm run dev
 7. php artisan migrate
-8a. php artisan tinker
-8b. factory(\App\User::class)->create(); // note the created user email
-9. php artisan serve
-10. Visit in you browser http://127.0.0.1:8000/
-11. login with the previous created user email and the password if "password"
+8. php artisan tinker
+9. factory(\App\User::class)->create(); // note the created user email
+10. php artisan serve
+11. Visit in you browser http://127.0.0.1:8000/
+12. login with the previous created user email and the password if "password"
 
