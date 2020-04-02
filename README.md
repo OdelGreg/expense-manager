@@ -14,5 +14,5 @@ This is a sample Expense Manager project.
 9. factory(\App\User::class)->create(); // note the created user email
 10. php artisan serve
 11. Visit in you browser http://127.0.0.1:8000/
-12. login with the previous created user email and the password if "password"
+12. login with the previous created user email and the password is "password"
 
